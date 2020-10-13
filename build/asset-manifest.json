@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/repexchange/static/css/main.5f361e03.chunk.css",
+    "main.js": "/repexchange/static/js/main.ef44eb8d.chunk.js",
+    "main.js.map": "/repexchange/static/js/main.ef44eb8d.chunk.js.map",
+    "runtime-main.js": "/repexchange/static/js/runtime-main.d7f91404.js",
+    "runtime-main.js.map": "/repexchange/static/js/runtime-main.d7f91404.js.map",
+    "static/js/2.eef4a0b0.chunk.js": "/repexchange/static/js/2.eef4a0b0.chunk.js",
+    "static/js/2.eef4a0b0.chunk.js.map": "/repexchange/static/js/2.eef4a0b0.chunk.js.map",
+    "index.html": "/repexchange/index.html",
+    "precache-manifest.404c8c989d6cb7cc62ab0f34c260c873.js": "/repexchange/precache-manifest.404c8c989d6cb7cc62ab0f34c260c873.js",
+    "service-worker.js": "/repexchange/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/repexchange/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eef4a0b0.chunk.js.LICENSE.txt": "/repexchange/static/js/2.eef4a0b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f91404.js",
+    "static/js/2.eef4a0b0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ef44eb8d.chunk.js"
+  ]
+}
